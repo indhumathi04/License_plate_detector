@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[29]:
+# In[1]:
 
 
 import cv2
@@ -12,7 +12,7 @@ minArea = 200
 color = (255, 0, 255)
 
 
-# In[30]:
+# In[2]:
 
 
 img = cv2.imread(r'D:\Image Processing with OpenCV (1)\Image Processing with OpenCV\OpenCV\Resources\NP1.jpg')    
